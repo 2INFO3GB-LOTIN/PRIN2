@@ -33,3 +33,15 @@ a,
     padding: 0 2rem;
   }
 }
+.membros {
+  display: flex;
+  height: 150px;
+  padding: 7px;
+}
+.bio {
+  display: block;
+  padding: 14px;
+}
+.membros img {
+  border-radius: 100px;
+}
