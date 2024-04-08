@@ -1,6 +1,15 @@
 <script setup></script>
 
 <template>
+   <div class="membros">
+    <img src="/img/ebraim.jpeg" />
+    <div class="bio">
+      <h1>Ebraim Herrera</h1>
+      <p>16 anos</p>
+      <a href="https://www.linkedin.com/in/ebraim-olivera-958224201/">LinkedIn</a> |
+      <a href="https://github.com/Ebraim30">Github</a>
+    </div>
+  </div>
   <div class="membros">
     <img src="/img/lari.jpeg" />
     <div class="bio">
